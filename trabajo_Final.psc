@@ -5,7 +5,7 @@ Algoritmo trabajo_Final
 	a = 0
 	total = 0
 	x = 0
-	Escribir "Ingrese el nombre"
+	Escribir "Bienvenido a Restaurante Sebis , ingrese su nombre y haga su pedido"
 	Leer nombre
 	Mientras a <> 3 Hacer
 		Escribir "1 = Carta de menús"
