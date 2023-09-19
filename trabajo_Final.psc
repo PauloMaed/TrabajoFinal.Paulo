@@ -8,8 +8,8 @@ Algoritmo trabajo_Final
 	Escribir "Ingrese el nombre"
 	Leer nombre
 	Mientras a <> 3 Hacer
-		Escribir "1 = Carta de menus"
-		Escribir "2 = Facturacion"
+		Escribir "1 = Carta de menús"
+		Escribir "2 = Facturación"
 		Escribir  "3 = salir"
 		Leer a
 		si a == 1 Entonces
@@ -17,7 +17,7 @@ Algoritmo trabajo_Final
 			Mientras b <> 4 Hacer
 				Escribir "1 = Arroz chaufa - 5000"
 				Escribir "2 = Lomo saltado - 4500"
-				Escribir "3 = Pollo a la parrila - 8000"
+				Escribir "3 = Pollo a la parrilla - 8000"
 				Escribir "4 = salir "
 				Leer b
 				si b== 1 Entonces
